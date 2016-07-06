@@ -180,7 +180,7 @@ info:
     anidb: http://anidb.net/perl-bin/animedb.pl?show=anime&aid=11639
     anilist: http://anilist.co/anime/21379/FatekaleidlinerPRISMA%E2%98%86ILLYA3rei!!
 streams:
-    crunchyroll: ''
+    crunchyroll: 'http://www.crunchyroll.com/fatekaleid-liner-prisma-illya|30'
     funimation: ''
 ---
 title: Fukigen na Mononokean
@@ -368,6 +368,7 @@ info:
     anilist: http://anilist.co/anime/21382/Rewrite
 streams:
     crunchyroll: http://www.crunchyroll.com/rewrite
+    daisuki: http://www.daisuki.net/se/en/anime/watch.Rewrite.13355.html 
     funimation: ''
 ---
 title: Saiki Kusuo no Ψ Nan
